@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Divya 👋
 
-<!--
-**t-divya/t-divya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a Frontend Developer based in London. 
+ I’m currently working on an Open Source Project- [dyslens](https://github.com/RichmondCroft/dyslens)
 
-Here are some ideas to get you started:
+#### About DysLens-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![](https://github.com/RichmondCroft/dyslens/blob/master/public/img/icon-16.png) [dyslens](https://github.com/RichmondCroft/dyslens) is a chrome extension built and designed for people struggling with reading disabilities, such as dyslexia and color vision deficiency.
+
+Tech Stack used:
+ - React 
+ - Typescript 
+ - Redux
+ - Jest 
+ - Cypress
+
+ 
