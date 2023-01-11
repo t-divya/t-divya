@@ -9,6 +9,8 @@
 
 Dyslens helps the user to change the text font of the web page, background color, highlight the text and many more customisable settings. 
 
+- Available on google chrome here is the link https://chrome.google.com/webstore/detail/dyslens/mpbkfbafkpkbpmgdcgkmonpfnodgfepo
+
 Tech Stack used:
  - React 
  - Typescript 
